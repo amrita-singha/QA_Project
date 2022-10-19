@@ -1,4 +1,4 @@
 scikit-learn==1.0.2
-haystack==1.10.0rc0
+haystack
 streamlit==1.13.0
 gdown==4.5.3
