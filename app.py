@@ -8,7 +8,7 @@ Original file is located at
 
 # Set up
 """
-pip install scikit-learn==1.0.2
+
 import streamlit as st
 import pandas as pd
 import numpy as np
