@@ -28,9 +28,9 @@ import string
 #from bs4 import BeautifulSoup
 #from tqdm import tqdm 
 
-import pathlib
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
+#import pathlib
+#temp = pathlib.PosixPath
+#pathlib.PosixPath = pathlib.WindowsPath
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics.pairwise import cosine_similarity
